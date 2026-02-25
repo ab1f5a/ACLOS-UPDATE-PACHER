@@ -1,11 +1,10 @@
-# ACLOS Update Patcher 🚀
+# ~~ACLOS Update Patcher~~ → ACLOS Tools 🚀
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-green.svg)
-![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0.2-blue.svg)
 
-**ACLOS Update Patcher** 是一款专为国服无畏契约启动器设计的更新拦截工具，其目的是拦截启动器更新请求来运行低版本启动器，进而修改游戏配音。
-
+**ACLOS Tools** 是一款专为国服无畏契约启动器设计的工具箱，集成了更新拦截、配音修改的功能。
 ---
 
 ## ✨ 核心特性
@@ -21,10 +20,10 @@
 ## 🚀 使用指南
 
 ### 1. 下载工具
-前往本仓库的 [Releases](../../releases) 页面，下载最新的 `ACLOS_Update_Patcher.exe`。
+前往本仓库的 [Releases](../../releases) 页面，下载最新的 `ACLOS_Tools_x86.exe`。
 
 ### 2. 操作步骤
-1.  **以管理员身份运行**：默认请求管理员权限，若打开程序后提示无权限，请右键点击 `ACLOS_Update_Patcher.exe`，选择“以管理员身份运行”。
+1.  **以管理员身份运行**：默认请求管理员权限，若打开程序后提示无权限，请右键点击以管理员身份运行。
 2.  **路径确认**：
     * 工具会尝试自动搜索 `无畏契约登录器.exe`。
     * 若搜索不到，会弹出窗口请你手动选择启动器路径。
@@ -45,7 +44,7 @@
 
 ## ⚠️ 免责声明
 
-* **技术研究**：本工具仅用于文件监控技术的研究与交流，不提供任何破解或作弊功能。
+* **技术研究**：本工具仅用于技术研究与交流，不提供任何破解或作弊功能。
 * **用户责任**：使用本工具导致的任何软件异常、数据变动或账号限制，由使用者本人承担。
 * **禁止商用**：本工具免费发布，严禁任何形式的倒卖或商业改装行为。
 
@@ -54,7 +53,5 @@
 ## 🤝 维护与更新
 
 * **作者**: ab1f5a
-* **当前版本**: 1.0.1
-* **更新说明**: 优化了路径识别算法，加入在线版本校验。
-
----
+* **当前版本**: 1.0.2
+* **更新说明**: 升级为 ACLOS Tools，内置配音修改，优化识别逻辑，加快拦截速度。。
