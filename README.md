@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-green.svg)
-![Version](https://img.shields.io/badge/Version-1.0.2-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0.2.1-blue.svg)
 
 **ACLOS Tools** 是一款专为国服无畏契约启动器设计的工具箱，集成了更新拦截、配音修改的功能。
 ---
