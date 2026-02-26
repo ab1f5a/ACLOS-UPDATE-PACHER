@@ -21,6 +21,7 @@
 
 ### 1. 下载工具
 前往本仓库的 [Releases](../../releases) 页面，下载最新的 `ACLOS_Tools_x86.exe`。
+[点击这里](https://down.val.qq.com/aclos/release/2.13.1.393/VALORANT_CN_installer_v2.13.1.393.exe)下载2.13.1版本启动器安装包。
 
 ### 2. 操作步骤
 1.  **以管理员身份运行**：默认请求管理员权限，若打开程序后提示无权限，请右键点击以管理员身份运行。
