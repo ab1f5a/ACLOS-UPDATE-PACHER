@@ -1,0 +1,1 @@
+pyinstaller -F -i logo.ico --uac-admin --add-data "ACLOS UPDATE PATCHER.EXE;." --name "ACLOS_Tools__x86" "main.py"

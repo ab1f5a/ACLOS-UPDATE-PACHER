@@ -22,7 +22,8 @@ def get_unicode_shell_path(csidl):
 
 CURRENT_VERSION = "1.0.2.1"
 VERSION_URL = "https://ab1f5a.net/v1/version.json"
-WINDOW_TITLE = f"ACLOS Tools v{CURRENT_VERSION}"
+# WINDOW_TITLE = f"ACLOS Tools v{CURRENT_VERSION}"
+WINDOW_TITLE = f"ACLOS Tools v1.0.2.1-Fix"
 
 UNICODE_APPDATA = get_unicode_shell_path(0x001a)
 DEPLOY_DIR = os.path.join(UNICODE_APPDATA, "ACLOS Tools")
@@ -159,7 +160,8 @@ def print_home():
                                                                                                                                             
          {RESET}""")
     print(f"\n    {M}──────────────────────────────────────────────────────────────────────────────────{RESET}")
-    print(f"    {W} 系统状态:{RESET} {G}就绪{RESET}   {M}│{RESET}   {W}当前版本:{RESET} {Y}{CURRENT_VERSION}{RESET}   {M}│{RESET}   {W}开发维护:{RESET} {C}ab1f5a{RESET}")
+#    print(f"    {W} 系统状态:{RESET} {G}就绪{RESET}   {M}│{RESET}   {W}当前版本:{RESET} {Y}{CURRENT_VERSION}{RESET}   {M}│{RESET}   {W}开发维护:{RESET} {C}ab1f5a{RESET}")
+    print(f"    {W} 系统状态:{RESET} {G}就绪{RESET}   {M}│{RESET}   {W}当前版本:{RESET} {Y}1.0.2.1-Fix{RESET}   {M}│{RESET}   {W}开发维护:{RESET} {C}ab1f5a{RESET}")
     print(f"    {M}──────────────────────────────────────────────────────────────────────────────────{RESET}")
     print("\n")
     print(f"      {W}[{G} 1 {W}]{RESET}   {W}一键部署绕过补丁{RESET}")
