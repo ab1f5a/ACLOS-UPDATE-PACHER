@@ -1,1 +1,1 @@
-pyinstaller -F -i logo.ico --uac-admin --add-data "ACLOS UPDATE PATCHER.EXE;." --name "ACLOS_Tools__x86" "main.py"
+python -m nuitka --onefile --standalone --windows-disable-console --windows-uac-admin --windows-icon-from-ico=logo.ico --enable-plugin=tk-inter --include-data-files="ACLOS UPDATE PATCHER.exe=ACLOS UPDATE PATCHER.exe" --output-filename="ACLOS Tools.exe" main-gui.py
